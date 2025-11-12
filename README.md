@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hi, I'm biswaranjan!
 
-<!--
-**Biswaranjan-399/biswaranjan-399** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 About Me
+- I'm passionate about python and cyber security
+- 👯 I’m looking to collaborate on Open Source projects related to cyber security.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Connect with Me
+- [LinkedIn Profile](https://www.linkedin.com/in/biswaranjan-samal-319163269)
+- Email: [biswaranjansamal2005@gmail.com]
+- [instagram](https://www.instagram.com/biswaranjan_399?igsh=cHMzM3FtcWM3eXZz)
+
+---
